@@ -8,3 +8,6 @@ To create the Django App
 To run the Django App
 >python manage.py startserver
 
+Make migrations
+>python manage.py makemigrations
+>python manage.py migrate
