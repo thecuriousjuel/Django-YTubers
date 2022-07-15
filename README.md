@@ -11,3 +11,6 @@ To run the Django App
 Make migrations
 >python manage.py makemigrations
 >python manage.py migrate
+
+Creating an Admin User
+>python manage.py createsuperuser
