@@ -1,0 +1,25 @@
+-------------------- C:\Users\juelb\Programming\Django\YTubers\manage.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\__init__.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\settings.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\__init__.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\apps.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\models.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\admin.py --------------------
+Performing system checks...
+
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\urls.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\urls.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\views.py --------------------
+System check identified no issues (0 silenced).
+July 16, 2022 - 21:28:31
+Django version 4.0.6, using settings 'YTubers.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\wsgi.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\manage.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\__init__.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\YTubers\settings.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\__init__.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\apps.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\models.py --------------------
+-------------------- C:\Users\juelb\Programming\Django\YTubers\webpages\admin.py --------------------

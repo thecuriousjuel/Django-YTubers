@@ -1,3 +1,5 @@
+print('-'*20, __file__, '-'*20)
+
 """YTubers URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:

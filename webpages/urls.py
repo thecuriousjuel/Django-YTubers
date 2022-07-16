@@ -1,3 +1,5 @@
+print('-'*20, __file__, '-'*20)
+
 from django.urls.resolvers import URLPattern
 from django.urls import path
 

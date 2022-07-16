@@ -1,3 +1,5 @@
+print('-'*20, __file__, '-'*20)
+
 """
 ASGI config for YTubers project.
 

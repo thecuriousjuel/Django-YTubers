@@ -1,3 +1,5 @@
+print('-'*20, __file__, '-'*20)
+
 """
 WSGI config for YTubers project.
 
