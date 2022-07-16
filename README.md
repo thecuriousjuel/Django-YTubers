@@ -14,3 +14,6 @@ Make migrations
 
 Creating an Admin User
 >python manage.py createsuperuser
+
+Collect static files from our defined static directory
+>python manage.py collectstatic
