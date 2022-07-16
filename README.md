@@ -15,5 +15,8 @@ Make migrations
 Creating an Admin User
 >python manage.py createsuperuser
 
-Collect static files from our defined static directory
+Collect static files from our defined static directory and arrange them automatically
 >python manage.py collectstatic
+
+To create a new app
+>python manage.py startapp webpages
