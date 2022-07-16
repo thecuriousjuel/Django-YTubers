@@ -32,6 +32,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # Every single time we create a new app, the app name should be added (as below)
+    'webpages.apps.WebpagesConfig', 
     'djangocms_admin_style', # Changed here
     'django.contrib.admin',
     'django.contrib.auth',
