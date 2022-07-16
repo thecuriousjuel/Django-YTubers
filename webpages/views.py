@@ -8,13 +8,14 @@ def home(request):
     return render(request, 'webpages/home.html')
 
 
+def login(request):
+    return render(request, 'webpages/login.html')
+
+
+def register(request):
+    return render(request, 'webpages/register.html')
+
+
 def about(request):
     return render(request, 'webpages/about.html')
 
-
-def services(request):
-    return render(request, 'webpages/services.html')
-
-
-def contacts(request):
-    return render(request, 'webpages/contact.html')
